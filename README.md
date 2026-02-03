@@ -22,4 +22,4 @@ Vì các file dữ liệu thử nghiệm (`test_1.txt` đến `test_10.txt`) có
 
 **Để chạy thử nghiệm, vui lòng sử dụng script sinh dữ liệu:**
 1. Chạy file `gen_test.py` để tạo các file test mẫu.
-2. Script sẽ tự động sinh ra các dãy số thực ngẫu nhiên với kích thước n cố định là 10^6 và giá trị trong khoảng [-10^9, 10^9].
+2. Script sẽ tự động sinh ra các dãy số thực ngẫu nhiên với kích thước n cố định là 1e6 và giá trị trong khoảng [-1e9, 1e9].
