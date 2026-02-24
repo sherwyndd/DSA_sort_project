@@ -1,4 +1,5 @@
 import time
+import numpy as np
 def merge(left, right):
     result = []
     i = j = 0
@@ -28,7 +29,8 @@ for i in range(1, numtest + 1):
             n = int(all_data[0])
             arr = [float(x) for x in all_data[1:]]
         start_time = time.time()
-        mergesort(arr)
+        mergesort(numpy.array(arr))
         end_time = time.time()
 
         print(end_time-start_time)
+
