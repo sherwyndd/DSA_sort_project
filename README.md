@@ -12,9 +12,9 @@ Dưới đây là bảng tóm tắt thời gian chạy trung bình trên 10 bộ
 
 | Thuật toán | Thời gian TB (ms) |
 | :--- | :---: |
-| **Quicksort** | 2689 |
-| **Mergesort** | 4226 |
-| **Heapsort** | 9824 |
+| **Quicksort** | 740 |
+| **Mergesort** | 2983 |
+| **Heapsort** | 1538 |
 | **Numpy Sort** | 38 |
 
 ## 📁 Cấu trúc dữ liệu đầu vào
